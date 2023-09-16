@@ -1,0 +1,181 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+
+body header div {
+    background-color: rgb(235, 206, 232);
+    font-size: 2.5rem;
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+    height: 7rem;
+    width: 100%;
+    z-index: 10;
+}
+
+body header div .navbar-nav {
+    background-color: rgb(235, 206, 232);
+}
+
+body header div .navbar-nav .nav-a {
+    text-decoration: none;
+    color: rgb(177, 10, 155) !important;
+}
+
+body header div .navbar-nav a:hover {
+    text-decoration: none;
+    color: rgb(115, 87, 240) !important;
+}
+
+body header div .logo-nav {
+    width: 8rem;
+    height: 6rem;
+    border-radius: 10px;
+}
+
+.swiper {
+    width: 600px;
+    height: 300px;
+}
+.imgcarrusel{
+    height: 300px;
+}
+
+/* fOOTER */
+footer {
+    background-color: rgb(235, 206, 232);
+    height: 6rem;
+    font-size: 0.8rem;
+    text-align: right;
+}
+
+.contacto{
+    font-size:1.2rem;
+    color: #4d0834;
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+    float: left;
+    margin-left: 2rem;
+    margin-top: 1.5rem;
+
+}
+
+.modo_oscuro{
+    margin-right: 1rem;
+    margin-top: 2rem;
+    background-color: #725869;
+    color: #fffcdc;
+}
+
+.instagram {
+    height: 4rem;
+    margin-right: 2rem;
+    margin-top: 1rem;
+}
+
+
+#productos-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 5px;
+}
+
+.tarjeta {
+    margin: 10px;
+    border: solid pink 2px;
+    padding: 20px;
+}
+
+.item {
+    padding: 20px;
+
+
+}
+
+.item img {
+    height: 60px;
+}
+
+.item-description {
+
+    size: 10px;
+}
+
+button {
+    background-color: pink;
+    margin-top: 10px;
+}
+
+/* MAIN CONTACTO */
+.contenedor-contacto {
+    background: #d9a7c7;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fffcdc, #d9a7c7);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fffcdc, #d9a7c7);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: "Playfair Display", serif;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    padding: 1rem;
+}
+
+.form-h1 {
+    text-align: center;
+    margin: 1rem 0;
+}
+
+.contenedor-form {
+    background: white;
+    width: 100%;
+    padding: 1rem 0;
+    border-radius: 1rem;
+    box-shadow: 0 0 10px rgba(136, 18, 120, 0.8);
+    margin: auto;
+}
+
+.form {
+    width: 50%;
+}
+
+.form .grupo {
+    position: relative;
+    margin: 2rem;
+}
+
+.form .grupo button {
+    background-color: rgb(235, 206, 232);
+    padding: 0.5rem;
+    font-weight: bold;
+    border-radius: 10px;
+    border: solid 1px rgba(136, 18, 120, 0.8);
+}
+
+.grupo button:hover {
+    background-color: rgb(235, 154, 228);
+}
+
+input,
+textarea {
+    background: none;
+    color: #c6c6c6;
+    font-size: 1.5rem;
+    padding: 10px 10px 10px 5px;
+    display: block;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid black;
+    resize: none;
+}

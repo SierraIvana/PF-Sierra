@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "producto": "Comedero Comelento",
+        "categoria": "Comederos y Bebederos",
+        "precio": 2000,
+        "marca": "Rascals",
+        "imagen": "../assets/img/comederoComelento.jpeg",
+        "descripcion": "Comedero para entrenar a tu perro a comer lento."
+    },
+    {
+        "id": 2,
+        "producto": "Collar",
+        "categoria": "collares y correas",
+        "precio": 1500,
+        "marca": "Dogston",
+        "imagen": "../assets/img/collarNegro.jpg",
+        "descripcion": "Collar reforzado para perro."
+    },
+    {
+        "id": 3,
+        "producto": "Hectopar XL",
+        "categoria": "pipetas",
+        "precio": 3000,
+        "marca": "Hectopar",
+        "imagen": "../assets/img/hectoparXL.jpeg",
+        "descripcion": "Pipeta para perros de 25 a 40 kg."
+    },
+    {
+        "id": 4,
+        "producto": "Hueso dispenser",
+        "categoria": "Juguetes",
+        "precio": 5000,
+        "marca": "Rascals",
+        "imagen": "../assets/img/huesoDispenserVerde.jpg",
+        "descripcion": "hueso de goma verde para perros con dispenser para alimentos."
+    },
+    {
+        "id": 5,
+        "producto": "Pelota dispenser",
+        "categoria": "juguetes",
+        "precio": 5500,
+        "marca": "Rascals",
+        "imagen": "../assets/img/pelotaDispenserRoja.jpg",
+        "descripcion": "pelota de goma roja para perros con dispenser de alimentos"
+    },
+    {
+        "id": 6,
+        "producto": "Hectopar XXL",
+        "categoria": "pipetas",
+        "precio": 4000,
+        "marca": "Hectopar",
+        "imagen": "../assets/img/hectoparXXL.jpeg",
+        "descripcion": "Pipeta para perros de 40 a 60 kg."
+    },
+    {
+        "id": 7,
+        "producto": "Arnes y correa",
+        "categoria": "collares y correas",
+        "precio": 8000,
+        "marca": "ChancheDog",
+        "imagen": "../assets/img/arnesCorreaArgentina.jpeg",
+        "descripcion": "Juego de arnes y correa, diseño seleccion argentina."
+    },
+    {
+        "id": 8,
+        "producto": "correa elastica",
+        "categoria": "collares y correas",
+        "precio": 5000,
+        "marca": "practiPupis",
+        "imagen": "../assets/img/correaElastica.jpeg",
+        "descripcion": "Correa elastica para perros."
+    },
+    {
+        "id": 9,
+        "producto": "Correa extensible",
+        "categoria": "collares y correas",
+        "precio": 10000,
+        "marca": "practiPupis",
+        "imagen": "../assets/img/correaextensible.jpeg",
+        "descripcion": "Correa extensible para perros con motivos de flores."
+    },
+    {
+        "id": 10,
+        "producto": "juguete Vaca",
+        "categoria": "juguetes",
+        "precio": 1500,
+        "marca": "LaGranjita",
+        "imagen": "../assets/img/jugueteVaca.jpeg",
+        "descripcion": "juguete de plastico formato vaca roja y blanca."
+    }
+]
